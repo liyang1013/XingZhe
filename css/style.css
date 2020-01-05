@@ -1,0 +1,31 @@
+.bg{
+	height: 200px;
+}
+.mt{
+	margin-top: 10px;
+}
+.mf{
+	margin-top: 20px;
+}
+.fz{
+	font-size: 16px;
+}
+.xfz{
+	font-size: 10px;
+	margin-top: 15px;
+}
+
+.dfz{
+	font-size: 20px;
+}
+.mt5{
+	margin-top: 5px;
+}
+.licheng{
+	margin-left: 20px;
+	font-size: 22px;
+	font-weight: bold;
+}
+.mb{
+	margin-bottom: 10px;
+}
