@@ -1,3 +1,3 @@
 # XingZhe
-### 期末作业
-纯HTML和CSS编写的静态页面
+### 
+jQuery框架写的HTML和CSS移动端静态页面
